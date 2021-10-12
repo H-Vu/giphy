@@ -1,0 +1,15 @@
+.body {
+  width: 800px;
+  /* background-color: bisque; */
+  margin-top: 3%;
+  margin-left: 25%;
+  margin-right: 25%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.li {
+  margin-left: 10px;
+  margin-top: 10px;
+}
